@@ -1,4 +1,4 @@
-# YMFC-AL — Your Multirotor Flight Controller (Auto-Level)
+# YMFC-AL — Your Multirotor Flight Controller (Auto-Level) [No AI used in the Project except in Readme.md]
 
 An open-source Arduino-based quadcopter flight controller with auto-leveling, built around the MPU-6050 IMU. YMFC-AL uses a complementary filter to fuse gyroscope and accelerometer data for stable, self-leveling flight with PID control on roll, pitch, and yaw.
 
